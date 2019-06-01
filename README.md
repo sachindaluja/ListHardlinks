@@ -8,6 +8,6 @@ Using Microsoft's C++ compiler: `cl /EHsc lshl.cpp`
 Usage:
 `lshl [Absolute Path to Directory]`
 
-Example:
+Examples:
 `lshl C:\Windows\winsxs` (This lists all files with hardlinks in the specified directory and all it's subdirectories.)
 `lshl` (This lists all files with hardlinks in the current working directory and all it's subdirectories.)
